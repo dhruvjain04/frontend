@@ -143,7 +143,7 @@ const fetcherproducts = (url) => fetch(url,
                       className="bg-image rounded hover-zoom hover-overlay"
                     >
                       <MDBCardImage
-                        src={`http://localhost:8001/${product.ImageURL}`}
+                        src={`https://backend-portal.onrender.com/${product.ImageURL}`}
                         fluid
                         className="w-100"
                       />

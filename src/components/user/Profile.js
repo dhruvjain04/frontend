@@ -153,7 +153,7 @@ if(products && user) {return (
                     style={{ height: '100%' }}
                   >
                     <MDBCardImage
-                      src={`http://localhost:8001/${product.ImageURL}`}
+                      src={`https://backend-portal.onrender.com/${product.ImageURL}`}
                       fluid
                       className="w-100"
                       style={{ height: '100%' }}
