@@ -1,0 +1,25 @@
+.image-preview img {
+    max-width: 300px;
+    /* Adjust the maximum width as needed */
+    height: auto;
+}
+
+.medium-image {
+    width: 300px;
+    /* Adjust the width as needed */
+    height: auto;
+}
+
+body {
+  /*  background-image: url('../images/img2.jpg');
+    background-size: cover;
+    background-position: center;*/
+  }
+
+.background
+{
+     background-image: url('../images/img2.jpg');
+    background-size: cover;
+    background-position: center;
+    height:715px;
+}

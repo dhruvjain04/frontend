@@ -1,0 +1,7 @@
+.image-container img {
+    width: 100vw;
+    height: 400px;
+    object-fit: cover;
+    image-rendering: optimizeQuality;
+  }
+  
