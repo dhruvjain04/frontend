@@ -133,7 +133,7 @@ const ViewProduct = () => {
         price_per_unit: product?.Price_per_unit,
         image: product?.ImageURL,
     };
-    let prodImage = 'https://backend-portal.onrender.com/images' + prod?.image;
+    let prodImage = 'https://backend-portal.onrender.com/' + prod?.image;
 
     return (
     <div>
